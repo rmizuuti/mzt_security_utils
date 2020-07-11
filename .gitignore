@@ -1,0 +1,8 @@
+venv/
+venv/*
+.idea/
+.idea/*
+build/
+build/*
+dist/
+dist/*
